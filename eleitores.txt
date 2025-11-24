@@ -1,0 +1,3 @@
+Pedro de Assis,111111,015443020272,Belo Horizonte,MG
+Ana Clara,222222,123456789012,São Paulo,SP
+João Silva,333333,987654321098,Lavras,MG

@@ -1,0 +1,31 @@
+=== BOLETIM DE URNA ===
+
+Total de votos computados: 1
+------------------------------
+
+Cargo: Deputado Federal
+Brancos: 0
+Nulos: 0
+Dep Fed A: 1 votos (100.00%)
+------------------------------
+
+Cargo: Deputado Estadual
+Brancos: 0
+Nulos: 0
+Dep Est A: 1 votos (100.00%)
+------------------------------
+
+Cargo: Senador
+Brancos: 0
+Nulos: 1
+------------------------------
+
+Cargo: Governador
+Brancos: 0
+Nulos: 1
+------------------------------
+
+Cargo: Presidente
+Brancos: 0
+Nulos: 1
+------------------------------
